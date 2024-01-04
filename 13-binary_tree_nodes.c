@@ -3,7 +3,7 @@
 /**
  * binary_tree_nodes - a function that counts the nodes with
  * at least 1 child in a binary tree
- * @@tree: pointer to the root node of the tree to count the number
+ * @tree: pointer to the root node of the tree to count the number
  *
  * Return: Always 0
  */
